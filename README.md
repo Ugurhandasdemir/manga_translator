@@ -36,6 +36,6 @@ Bu proje, manga panelindeki konuşma balonlarından OCR (Optical Character Recog
 - Çeviri sonucu orijinal metin kutusunun üzerine yeniden basılır ve
 - Sonuçlar `test_sonuc2` klasörüne kaydedilir.
 
-Projeyi çalıştırmak için:
-```sh
-python [main.py](http://_vscodecontentref_/0)
+(https://github.com/user-attachments/assets/b88a0280-3e18-4de7-a7ad-aec5b63ec52d)
+
+
