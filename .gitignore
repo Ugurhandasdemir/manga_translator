@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+*.log
+venv
+old
+0_metinli_balon_0.jpg
+comic-speech-bubble-detector.pt
+runs
