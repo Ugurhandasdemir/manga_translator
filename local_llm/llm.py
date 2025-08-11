@@ -3,19 +3,24 @@ from langchain_ollama.llms import OllamaLLM
 
 class OllamaChatLLM(OllamaLLM,):
     def answer(self, question: str) -> str:
-        system = """ "You are a helpful assistant for manga translation. "
-                        "You will be given a word in English and you need to translate it into Turkish. "
-                        "You will only return the translated word, nothing else. "
-                        "You not translate special names, such as manga names, character names, etc. "
-                        "You fix break lines in the text. for example: THIS 15 17 -> This is it " """
+        system = """
+        You are a translator for manga dialogues.
 
-        template = """System: {system}
-        This word translation: {question}
+        Rules:
+        1. Translate from English to Turkish.
+        2. Do not translate proper names (manga titles, character names, location names, etc.).
+        3. Fix broken words or lines. Example: "THIS 15 17" → "This is it".
+        4. Remove any "-" characters from the text unless they are part of a proper name.
+        5. Return only the translated text. No explanations, no extra words.
+        """
+        template = """
+        System: {system}
+        Translate this: {question}
         """
 
         prompt = ChatPromptTemplate.from_template(template)
 
-        model = OllamaLLM(model = "gemma3:12b")
+        model = OllamaLLM(model = "llama3.1:8b")
 
         chain = prompt | model
         
