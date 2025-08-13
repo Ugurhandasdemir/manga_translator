@@ -5,58 +5,60 @@ Bu proje, manga panelindeki konuşma balonlarından OCR (Optical Character Recog
 ## Özellikler
 
 - **Balon Tespiti:** [YOLO](https://github.com/ultralytics/ultralytics) ile konuşma balonlarını otomatik olarak algılar.
-- **OCR İşlemi:** [doctr](https://github.com/mindee/doctr) ile balon içindeki metni çıkarır.
-- **Metin Çevirisi:** [Ollama](https://ollama.com/) ile local LLM veya [Google Gemini](https://ai.google.dev/) API ile İngilizceden Türkçeye çeviri.
+- **OCR İşlemi:** [easyocr](https://github.com/JaidedAI/EasyOCR) ile balon içindeki metni çıkarır.
+- **Metin Çevirisi:** [Ollama](https://ollama.com/) ile local LLM, [Google Gemini](https://ai.google.dev/) API veya OpenAI GPT ile İngilizceden Türkçeye çeviri.
 - **Görüntü İşleme:** [OpenCV](https://opencv.org/) ile balon içine metni yeniden yerleştirir. Özel fontlar için [Pillow (PIL)](https://pillow.readthedocs.io/) kullanılabilir.
 
 ## Gereksinimler
 
 - Python 3.x
 - ultralytics (YOLO)
-- doctr
-- OpenCV
-- Pillow
+- easyocr
+- deep-translator
+- opencv-python
+- pillow
 - numpy
-- Ollama (local LLM için)
-- Google Gemini API (isteğe bağlı)
-- (İsteğe bağlı) Tesseract OCR ve googletrans (alternatif eski yöntem için)
+- langchain, langchain_ollama
+- ollama (local LLM için)
+- google-generativeai (Google Gemini için)
+- openai (OpenAI GPT için)
+- python-dotenv (API anahtarları için)
 
 ## Kurulum
 
 1. Gerekli Python paketlerini yükleyin:
     ```sh
-    pip install ultralytics doctr opencv-python pillow numpy
+    pip install ultralytics easyocr deep-translator opencv-python pillow numpy langchain langchain_ollama google-generativeai openai python-dotenv
     ```
 2. Local LLM için [Ollama](https://ollama.com/download) kurun ve bir model indirin:
     ```sh
-    ollama pull gemma:12b
+    ollama pull llama3.1:8b
     ```
-3. Google Gemini API kullanacaksanız, [API anahtarınızı](https://ai.google.dev/) alın ve kodda ayarlayın.
+3. Google Gemini ve OpenAI API anahtarlarınızı `.env` dosyasına ekleyin:
+    ```
+    gemini_api_key=YOUR_GEMINI_API_KEY
+    openai_api_key=YOUR_OPENAI_API_KEY
+    ```
+4. Türkçe karakter destekli bir font dosyasını (örn. ComicRelief.ttf) `FONT_PATH` olarak belirtin.
 
 ## Kullanım
 
-`yolo_buble_detection.py` dosyasını çalıştırarak:
+`src/main.py` dosyasını çalıştırarak:
 
 - YOLO ile konuşma balonları tespit edilir,
 - Her balon için OCR ile metin çıkarılır,
 - Çıkarılan metin LLM veya API ile Türkçeye çevrilir,
 - Çeviri sonucu balonun içine yeniden yazılır ve yeni görsel kaydedilir.
 
-### Örnek Çalışma Akışı
 
-1. Görüntü dosyasını `img_path` ile belirtin.
-2. Scripti çalıştırın:
-    ```sh
-    python local_llm/yolo_buble_detection.py
-    ```
-3. Sonuçlar `0_metinli_balon_X.jpg` olarak kaydedilir.
 
 ## Örnek Sonuç
 
 ![Örnek Manga Balonu](https://github.com/user-attachments/assets/b88a0280-3e18-4de7-a7ad-aec5b63ec52d)
 
-## Notlar
+## Yapılacaklar (TODO)
 
-- OCR ve çeviri kalitesi kullanılan modele göre değişebilir.
-- Özel font ile Türkçe karakter desteği için Pillow kullanabilirsiniz.
-- Eski yöntem olarak Tesseract ve googletrans da kullanılabilir.
+- [ ] Balon dışı metinler için de OCR ve çeviri desteği ekle.
+- [ ] Daha iyi satır kaydırma ve font boyutu otomasyonu.
+- [ ] GUI arayüzü ekle.
+- [ ] Qwen api ekle.
