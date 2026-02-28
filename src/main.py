@@ -8,7 +8,7 @@ from api_llm import LLM
 
 # ── Yapılandırma ──────────────────────────────────────────────
 MODEL_PATH = "comic-speech-bubble-detector.pt"
-INPUT_FOLDER = "/home/ugo/Downloads"
+INPUT_FOLDER = "/home/ugo/Documents/Python/manga/test"
 OUTPUT_FOLDER = "output_images"
 FONT_PATH = "/home/ugo/Documents/Python/manga/ComicRelief.ttf"
 CONF_THRESHOLD = 0.25
