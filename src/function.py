@@ -26,10 +26,7 @@ def process_bubble(image):
 
 
 def _fit_text(draw, text, font_path, max_width, max_height):
-    """Font boyutunu ve satır sarmalamayı balonun içine sığacak şekilde hesaplar.
-    
-    Binary search ile en büyük sığan font boyutunu bulur.
-    """
+    """Metni balona sığdıracak font boyutunu bulur (binary search)."""
     best_font = None
     best_lines = []
     best_line_height = 0
@@ -42,7 +39,6 @@ def _fit_text(draw, text, font_path, max_width, max_height):
         ascent, descent = font.getmetrics()
         line_height = ascent + descent
 
-        # Bir karakter genişliğinden sarma genişliği hesapla
         avg_char_w = font.getlength("A")
         if avg_char_w <= 0:
             avg_char_w = mid * 0.6
@@ -52,16 +48,15 @@ def _fit_text(draw, text, font_path, max_width, max_height):
         lines = wrapped.split("\n")
 
         total_h = len(lines) * line_height
-        # En uzun satır genişliğini kontrol et
         max_line_w = max(draw.textlength(line, font=font) for line in lines)
 
         if total_h <= max_height and max_line_w <= max_width:
             best_font = font
             best_lines = lines
             best_line_height = line_height
-            low = mid + 1  # Daha büyük dene
+            low = mid + 1
         else:
-            high = mid - 1  # Daha küçük dene
+            high = mid - 1
 
     return best_font, best_lines, best_line_height
 
@@ -73,7 +68,6 @@ def add_text(image, text, font_path, bubble_contour):
 
     x, y, w, h = cv2.boundingRect(bubble_contour)
 
-    # Padding uygula — metin balonun kenarlarına yapışmasın
     inner_x = x + PADDING
     inner_y = y + PADDING
     inner_w = max(1, w - 2 * PADDING)
@@ -82,20 +76,16 @@ def add_text(image, text, font_path, bubble_contour):
     font, lines, line_height = _fit_text(draw, text, font_path, inner_w, inner_h)
 
     if font is None or not lines:
-        # Hiçbir boyut sığmadıysa fallback
         font = ImageFont.truetype(font_path, size=MIN_FONT_SIZE)
         lines = [text]
-        _, descent = font.getmetrics()
-        line_height = MIN_FONT_SIZE + descent
+        ascent, descent = font.getmetrics()
+        line_height = ascent + descent
 
     total_text_height = len(lines) * line_height
-
-    # Dikey ortalama
     text_y = inner_y + (inner_h - total_text_height) // 2
 
     for line in lines:
         line_w = draw.textlength(line, font=font)
-        # Yatay ortalama
         text_x = inner_x + (inner_w - line_w) // 2
         draw.text((text_x, text_y), line, font=font, fill=(0, 0, 0))
         text_y += line_height
