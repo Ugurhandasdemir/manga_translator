@@ -1,0 +1,10 @@
+python-dotenv
+easyocr
+langchain-ollama
+google-genai
+openai
+opencv-python
+torch
+ultralytics
+pillow
+numpy

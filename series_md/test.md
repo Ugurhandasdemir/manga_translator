@@ -1,0 +1,122 @@
+## Karakterler
+- Jonas Halden (Kullanılan ad: Jonas) — konuşma tarzı sade ve doğrudan. Örneğin, “You can call me Jonas” ifadesi Türkçe’de “Beni Jonas diye çağırabilirsin.” şeklinde kullanılır; bu karakterin konuşması net ve kısadır.
+- Köy Lideri — resmi, otoriter tonlarda konuşur. Köyün gelişimi ve güvenliğiyle ilgili konulara yaklaşımı ciddi ve sınırlayıcıdır.
+- George Şerif — resmi ve resmi unvanda konuşur; olaylar ilerledikçe güvenlik ve düzen vurguları ön planda olur. Köy liderliğiyle yakın temas içindedir.
+- Sutton — ara yönelik mesajlar ve iletiler getirir; sohbetler çoğunlukla kısa ve iş odaklıdır.
+
+## Terimler Sözlüğü
+- MaueaYY ORe => MauelyaYY ORe
+- Thud => Thud
+- YOL'RE GOING TO-- A => YOL, BENİM—A
+- Couch! => Couch!
+- ~~T-To PAY...! => ~~ÖDEMEK...!
+- Y-Youre GoinG-- => Sen—
+- YOUR BRAVERY IS CommendabLe => Cesaretin takdire şayan
+- TeLL The DEMONS_ => Şeytanlara söyle—
+- Where Are MY CowS?! => İneklerim nerede?
+- TheSe MeN Stole our CowS LAST Week! => Bu insanlar geçen hafta ineklerimizi çaldı!
+- MY Sister AND I Took Such GREAT CARE Of Them; And THEN-- => Ben ve kız kardeşim onlara çok iyi bakıyorduk; ve sonra—
+- Hush; BeN! => Sus, Ben!
+- Mmph-! => Mmph—!
+- WHAT Did The Boy SAY? => Çocuk ne dedi?
+- Nothing! FORGive HIm, He JuSt-- => Hiçbir şey! Ona affet, sadece—
+- Kids Love To MAKE Up TALES! => Çocuklar hikayeler uydurmayı sever!
+- ACTLALLY; I HEARD HIm Qlite CLEARLY => Aslında, onu oldukça net duydum
+- WHAT Did You Do With MY CowS? => İneklerimle ne yaptın?
+- W-Wouldn't You Like To Know? => Bilmek ister misin?
+- AAAHHH!!? => AAAHHH!!?
+- RETURN MY COWS. => İneklerimi geri ver.
+- You HAVE Three DAYS. => Üç gün var.
+- tapas original => orijinal tapas
+- Based on the original novel series [TLE MAGE FARMER by Seth Published by Aethon Books tation by D.J. Stewart Main Artist: six Storyboard by: Ring Adapl spike => Orijinal roman serisi [TLE MAGE FARMER, Seth tarafından, Aethon Books tarafından, D.J. Stewart tarafından, ana sanatçı: six, senaryo: Ring, storyboard: Spike, uyarlama: spike]
+- L Cucia ea 2 Main Artist: six Storyboard QC JSCR studio spike by: by; => L Cucia, ana sanatçı: six, storyboard QC JSCR studio, spike tarafından;
+- Sutton Sent You. => Sutton sana geldi.
+- Pa Nv BY To A AT PM IN OF WITH DISCHARGED LEPIERIAN BEEN HAVE ROYAL SMALL YoU THE HONORS _ DEED 'THE HIGH GRANTED MOUNTAINS, AND 'FAIRFORD. ARMY ROBAIN THE 'LAGE CADER => Pa Nv BY, saat 2'de, OF, WITH, DISCHARGED LEPIERIAN, BEEN HAVE, ROYAL SMALL, YOU THE HONORS, DEED 'THE HIGH GRANTED MOUNTAINS, AND 'FAIRFORD. ARMY ROBAIN THE 'LAGE CADER
+- ManeaYN ORe => MauelyaYY ORe
+- Hold; CRiMiNAL, => Dur, suçlu,
+- This TownS Off-Limits For BANDItS, => Bu kasaba, BÜTÜN ÇALGILAR İçin tehlikeli
+- I THINK Youve Got The WRONG MAN. => Yanlış kişiyi buldun.
+- MY NAME Is John Sutton: ThE VILLAGE LEADER IS ExpectING Me. => Benim adım John Sutton, köy lideri beni bekliyor.
+- IvE Been GRANTED ThE BURROWS HOMESTAD On Writ OF The ETERNAL FLAME => Ben, Ebedi Ateş'in yazısıyla Burrow's Homestead'ı aldım.
+- AMMP_ => AMMP_
+- The EMPERor => İmparator
+- BoLd CLAIM => Cesur iddia
+- YoU SoMe KIND OF WAR HERO? => Sen bir savaş kahramanı mısın?
+- You CoLLd SAY THAT => Bunu söyleyebilirsin
+- I ApoLoGize. TholGH:. It WolLd SeeM YOURe A Bit LoSt => Özür dilerim. Ancak, görünüyor ki biraz kafandasın
+- ThE ViLLAGE OF FairfoRD IS STRAIGHT THAT WAY => Fairford köyü bu yönde
+- ThE VILLAGE LEADER Lives IN THE FIRST Big HouSE. You CAN'T MISS It, => Köy başı, ilk büyük evde yaşıyor. Bunu kaçırmazsın,
+- THANK YOu, UM._ => Teşekkürler, Üm.
+- George SHERIFF: => George SHERIFF:
+- PERHAPS ILL Be Seeing You AROLND , SHERIFF: => Belki sizi de burada görürüm, SHERIFF:
+- Hopefully Not => Umarım değil.
+- HM; MLSt Be The GuY I'M LOOKING FOR. => Ah, bu benim aradığım kişi.
+- MIGHTY BIg SEnSe OF HimSeLf: => Çok kibirli:
+- It'S GOT A Hole CLEAR THROLGH It,_ => Bu, açık bir delik var,
+- But It APPEARS To Be A Deed To ThE BLRROWS HOMESTAD? => Ancak, bunun, "BLRROWS" ailesinin evine ait bir tapu gibi görünüyor?
+- WIth THE SEAL OF THE ETERNAL FLAME! WOW! DOn'T See THAT OFtEN. => ETERNAL FLAME'ın mührüyle! Vay canına, nadiren böyle bir şey görüyorum.
+- Twenty-Five ACRES OF fields, A HLndred ACrES OF FOREST; THREE PASTURES, A HoMe, A BARN, Six CoWS, AND A BulL. => Yirmi beş dönümlük tarlalar, yüz dönümlük orman, üç otlak, bir ev, bir samanlık, alt inek ve bir boğa.
+- Qullo( SORRY; I ENCOLNTERed A Bit OF A.. Tough CRowd On The WAY HERE' => (Affedersin, buraya gelene kadar biraz zor insanlarla karşılaştım)
+- HAHA! OH YES, YoU'LL Get USed To THAT QUICKLY OUT HERE On The FRONTIER. => Haha! Evet, burada öncüde, bunu çok çabuk alışacaksın.
+- JONAS HALDEN You CAN CALL ME JONAS. => Jonas HALDEN, beni Jonas olarak adlandırabilirsin.
+- YOu DON'T LOOK MLCH Like The StATUE => Statue gibi görünmüyorsun.
+- THAT WolLd Be MY FATHER! => O benim babam!
+- He PASSED AWAY A FEW YEARS AGo. WE SHARE The SAME NAME' => Birkaç yıl önce öldü. Biz aynı adımızla yaşıyoruz.
+- He WAS A VETERAN OF ThE MAGE WARS. LIKE You, I PresuMe. => O, Mage Savaşları'nın bir veteranıydı. Sizin gibi, sanırım.
+- THANK ThE ETERNAL FLAME FOR EnDing ALL THAT => ETERNAL FLAME'ın tüm bunları bitirmesi için teşekkürler.
+- ARE You. Sure You WANT THIS PROPERTY? => Bu mülkü gerçekten almak istiyor musunuz?
+- I ColLd PROBABLY Set You UP In ANOTHER, SAFER VILLAGE NEARBY => Belki size, daha güvenli bir köyde başka bir ev ayarlayabilirim.
+- ICAN HANDLE MySelf => Ben kendimi idare edebilirim.
+- WELL, IF YOU INSIST. _ => Peki, eğer istersen...
+- Let'S Go And Get You SettLed In! => Gidelim ve sizi yerleşmeye yardım edelim!
+- Become Villacea) LEADER? => Köy başı mı olmak istiyorsun?
+- WHEn HE WAS YOLNG , HE SERVED In The MILITARY AS An ADVANCE SCout. => Gençken, askeri bir keşif görevinde bulundu.
+- Me HE MANAGED TO SURVIvE LONG Enolgh To Retire AFTER The BATTLE OF TORRENS PLAINS. => Savaşın ardından, Torrens Vadisi Muharebesi'nden sonra emekli olabilmesi şanslıydı.
+- THAT WAS LNDER The Old King; OF COURSE, But ThE ETERNAL FLAME HONORED THE FIRST CLASS MERIt And POSt OF VILLAGE HEAD! => O, Eski Kral döneminde, ETERNAL FLAME tarafından ilk sınıf bir görev ve köy başı olarak onurlandırıldı.
+- NO WAY: No One SurvIved TORREN PLAINS. => Yok, Torrens Vadisi'nde hiç kimse hayatta kalmadı.
+- TEn THOLSAND SOLDiERS, GOne In the BLINK OF An Eye, And The LAND'S StiLL UNInhABItABLE FROM ALL The Spell DAMAGE' => On binlerce asker, bir anda ortadan kayboldu ve arazi hala büyülü hasarlar nedeniyle yaşanmaz durumda.
+- MhM! ALL BECALSE OF thoSE CURSED MAGES. => Aynen, o lanetli büyücüler yüzünden.
+- MY POPS SAID THEY RAN INTO ONE WHO CONTROLLED WATER, And Sumoned A GIANT WAVE THAT CrlshED TheM! => Dedem, su kontrol eden ve dev bir dalga çağıran bir büyücüyle karşılaştığını söyledi.
+- But MY POPS WAS SMART He STABBED AN ARROW INTO HIs ARMOR AND HUNG ONTO A LOG. => Ama dedem zekiydi, zırhına bir ok sapladı ve bir taşa tutundu.
+- Pretended To Be A DEAD Body AS HE FLOATED AWAY To SAFETY! => Güvenli bir şekilde yüzerek taşın üzerine dönen bir ölü gibi yaptı!
+- IM GLAD TheY've OUTLAwED MAGIC; NOTHING BUT TRolbLe, IF You ASK ME. => Büyünün yasaklanmasından dolayı mutluyum, benim açımdan sorun çıkaran hiçbir şey yok.
+- But MY FATHER. He WAS THE FIRST In TOWN TO Die OF. _ MYSterious CAUSES. => Ama babam... O, burada ilk ölen kişiydi. Bilinmeyen sebeplerle.
+- YOUR FATHER WAS FORTLNATE TO LIve LONG Enough To Get DISCHARGED. => Babana uzun süre yaşamanın şansı oldu.
+- BACK THEn, TheY WERE Summoning EVERY BoDy theY ColLd Get, => O zamanlar, her türlü insanı çağırtıyorlardı.
+- HERE'S HOPING It'S A Nice FARM-- => Umarım, güzel bir çiftlik olur...
+- So, UM. ABOUt THAT-- => Yani, um... o konuyla ilgili...
+- For The LAST Time; Tell Your BoSS IM Not interested! => Son kez; patronunuza, ilgimi çekmediğimi söyleyin!
+- DON'T Give ME THAT! It'S A Good DEAL! => BUNA İZİN VERMEYİN! Bu harika bir fırsat!
+- S WANTS YOU-- => S sizi istiyor...
+- Ellie! => Ellie!
+- Ellie; Are They THREATENING You AGAIN?! => Ellie, yine tehdit mi ediyorsunuz?!
+- You AREN'T GONNA Get A BETTER OFFER-- => Daha iyi bir teklif alamayacaksınız...
+- Dlnn => Dlnn
+- Oh? ARE We THREATENiNG You? => Oh, biz mi tehdit ediyoruz sizi?
+- Do You FeeL THREATENED? => Tehdit hissediyor musunuz?
+- NAUSEATED; PERHAPS. => Mide bulandırıcı, belki.
+- HeY! => Hey!
+- LEAVE HEr Alone! => Onu yalnız bırakın!
+- CAN It, OL' MIGHTY VILLAGE LEADER! PSSH! => Ol' Muhteşem Köy Lideri! PSSH!
+- StILL RIDInG ON DADDY'S COATTAILS. => Hala babasının gölgesinde.
+- You DON't DESERVE THAT Title-- => O ünvanı hak etmiyorsunuz...
+- WhatrE You All Doing On MY property? => Siz buraya ne yapıyorsunuz?
+- YOur PROPERTY? HAH! => Burası mı? HA!
+- JuSt TAKING CARE OF SoMe Unfinished BUSIneSs => Sadece bazı işleri halletmek için...
+- You HAVE Two SecondS To Move Your Business ElSewhere-- => İşinizi başka bir yere taşımak için sadece iki saniye var...
+- ~-before I DiSPLAY Your Corpses Like LAWN Gnomes; => ...a) önce cesedlerinizi bahçe süsleri gibi sergilemeden;
+- MISS , ARE You In TRolbLe? => Hanım, sorun mu var?
+- N-No. => Hayır.
+- HM: ThEn I GueSS You CAN FINISH YOUR => O zaman, siz de işinizi tamamlayabilirsiniz
+- WhiLE I UNPACK AnD TAKE A LOOK AROLND => Ben de eşyalarımı açıp etrafı dolaşırken...
+
+## Üslup Notları
+- Adlar ve terimler tutarlı Türkçe kullanıma çekilmeli. Örneğin Eternal Flame için "Ebedi Ateş" kullanımı benimsenmelidir.
+- Büyük harf kullanımı Türkçe metinde sadeleştirilmelidir; özel adlar ve önemli terimler haricinde standart yazı stiline dönüştürülmelidir.
+- Karakter adları ve unvanlar (Köy Lideri, Şerif, Jonas) mümkün olduğunca Türkçe okunuşa uygun yazılmalı; ama mevcut karakter isimleri korunuyorsa bu tutum notlarda belirtilebilir.
+- Çeviri, diyalog akışını bozmayacak şekilde, anlamı bozmadan akıcı Türkçe cümlelere dönüştürülmelidir. Özellikle konuşmalarda karakterlerin ses tonu ve kahramanlık/cesaret temaları korunmalı.
+- Kriptik/bozuk metinler (ör. garip başlıklar veya karışık cümleler) gerektiğinde açıklama notlarıyla birlikte bırakılabilir; ancak mümkün olduğunca net Türkçe karşılıklar önerilmelidir.
+- Özel terimler için eşleşmeler tek bir standarda oturtılmalı ve sonraki bölümler için bu standart korunmalıdır.
+
+## Bölüm Özeti
+Yeni bölümde kahramanımız, köye adım attığında Jonas ile karşılaşır; köy lideri ve yerel güçler arasında gerginlik sinyalleri belirir. İnekler ve Burrows Homestead gibi öğelerin geçtiği bu bölüm, Ebedi Ateş ve çeşitli rakip güçler arasındaki gerilimi kısa bir biçimde kuruyor ve ilerleyen çeviriler için temel terimler ile karakter dinamiklerini kuruyor.
